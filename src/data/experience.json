@@ -14,8 +14,8 @@
       ],
       "stack": ["Vue.js", "Angular.", "C++", "MySQL", "Git"],
       "logoheight": 80,
-      "colourPrimary": "linear-gradient(to bottom, #39b175, #0be779)",
-      "colourSecondary": "linear-gradient(to bottom, #39b175, #0be779)"
+      "colourPrimary": "linear-gradient(to bottom, #39b175, #78B4FB)",
+      "colourSecondary": "linear-gradient(to bottom, #39b175, #78B4FB)"
     },
     {
       "id": 1,

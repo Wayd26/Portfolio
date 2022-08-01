@@ -4,23 +4,24 @@ import { Fade } from 'react-reveal'
 import Button from '@material-ui/core/Button'
 import { makeStyles } from '@material-ui/core/styles'
 import { featured_projects } from '../../data/featured_projects.json'
-import Project from '../project/Project'
-import Section from '../section/Section'
 import FeaturedProject from '../featuredProject/FeaturedProject'
+import Section from '../section/Section'
+// eslint-disable-next-line
+import Project from '../project/Project'
 
 const useStyles = makeStyles((theme) => ({
   moreProjects: {
     '&': {
       margin: '20px auto',
-      backgroundColor: '#39b175',
+      backgroundColor: '#ffffff',
       boxShadow: 'none',
       '&:hover': {
-        backgroundColor: '#0be779',
+        backgroundColor: '#78B4FB',
+        color: '#fff',
         boxShadow: 'none',
       },
-    },
-    '& > *': {
-      color: 'white',
+    },  
+    '& > * ': {
       padding: 4,
       fontSize: '15px',
       fontWeight: '600',

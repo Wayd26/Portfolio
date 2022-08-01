@@ -17,10 +17,10 @@
     },
     {
       "id": 1,
-      "name": "fit_app",
+      "name": "Fit App",
       "link": "https://fit-web-app.netlify.app/",
       "description": "🏋 Web app to view fitness exercises with some videos included. Data provided by Rapid-API free Youtube and Exercises APIs.",
-      "colour": "linear-gradient(to bottom right, rgb(73, 56, 165),rgb(230, 12, 53))",
+      "colour": "linear-gradient(to bottom right, rgb(13, 146, 145),rgb(230, 12, 53))",
       "logo": "fit_app",
       "languages": [
         { "name": "JavaScript", "color": "rgb(241, 224, 90)" },

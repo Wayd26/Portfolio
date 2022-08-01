@@ -23,6 +23,7 @@ const FeaturedProject = ({ name, link, description, colour, languages, logo }) =
               src={require(`../../images/logos/${logo}.png`)}
               alt={`${name}-logo`}
             />
+          <span className="feature-project-name">{name}</span>
           </div>
           <p>{description}</p>
           <div className="project-info">

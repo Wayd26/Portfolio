@@ -35,10 +35,18 @@
   margin-top: 20px;
 }
 .featured-project-image {
-  margin: 0 auto 0 -10px;
   width: 80px;
   z-index: 1;
   transition: 0.2s;
+}
+
+.feature-project-name {
+  z-index: 1;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 10px;
+  font-weight: 700;
+  font-size: larger;
 }
 
 .featured-project-image:hover {

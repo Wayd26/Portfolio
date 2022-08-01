@@ -52,18 +52,21 @@ const useStyles = makeStyles((theme) => ({
   },
   submit: {
     '&': {
-      backgroundColor: '#39b175',
+      backgroundColor: '#ffffff',
       boxShadow: 'none',
       '&:hover': {
-        backgroundColor: '#6de9ab',
+        backgroundColor: '#78B4FB',
         boxShadow: 'none',
       },
     },
     '& > *': {
-      color: 'white',
+      color: '#3b4353',
       fontSize: '15px',
       fontWeight: '600',
     },
+    '& > *:hover': {
+      color:'white'
+    }
   },
 }))
 
