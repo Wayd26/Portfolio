@@ -52,7 +52,7 @@ const Home = () => {
             <Bounce cascade>
               <div className="links">
                 <a
-                  href="https://www.linkedin.com/in/mjigalin/"
+                  href="https://www.linkedin.com/in/Wayd26/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
