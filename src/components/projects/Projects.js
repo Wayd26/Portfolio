@@ -4,6 +4,7 @@ import { Fade } from 'react-reveal'
 import Button from '@material-ui/core/Button'
 import { makeStyles } from '@material-ui/core/styles'
 import { featured_projects } from '../../data/featured_projects.json'
+import Project from '../project/Project'
 import Section from '../section/Section'
 import FeaturedProject from '../featuredProject/FeaturedProject'
 
