@@ -1,0 +1,34 @@
+{
+  "featured_projects": [
+    {
+      "id": 0,
+      "name": "Weather App",
+      "link": "https://weather-pwa-v1.netlify.app/",
+      "description": "⛅ Modern PWA to view weather in a chosen city. Used Open Weather API for getting data.",
+      "colour": "linear-gradient(to top, rgb(0, 122, 65),rgb(37, 207, 108))",
+      "logo": "weather_app",
+      "languages": [
+        { "name": "React", "color": "rgb(241, 224, 90)" },
+        { "name": "JavaScript", "color": "rgb(100, 219, 255)" },
+        { "name": "CSS", "color": "rgb(55, 29, 155)" },
+        { "name": "HTML", "color": "rgb(100, 19, 25)" },
+        { "name": "PWA", "color": "rgb(10, 219, 142)" }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "fit_app",
+      "link": "https://fit-web-app.netlify.app/",
+      "description": "🏋 Web app to view fitness exercises with some videos included. Data provided by Rapid-API free Youtube and Exercises APIs.",
+      "colour": "linear-gradient(to bottom right, rgb(73, 56, 165),rgb(230, 12, 53))",
+      "logo": "fit_app",
+      "languages": [
+        { "name": "JavaScript", "color": "rgb(241, 224, 90)" },
+        { "name": "CSS", "color": "rgb(86, 61, 124)" },
+        { "name": "API", "color": "white" },
+        { "name": "Material-UI", "color": "cyan" },
+        { "name": "React", "color": "blue" }
+      ]
+    }
+  ]
+}

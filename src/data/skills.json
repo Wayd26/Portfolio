@@ -1,0 +1,64 @@
+{
+  "skills": [
+    {
+      "id": 0,
+      "skillName": "HTML/CSS",
+      "amount": "95"
+    },
+    {
+      "id": 1,
+      "skillName": "Javascript",
+      "amount": "90"
+    },
+    {
+      "id": 2,
+      "skillName": "ReactJS",
+      "amount": "85"
+    },
+    {
+      "id": 3,
+      "skillName": "Node.js",
+      "amount": "50"
+    },
+    {
+      "id": 4,
+      "skillName": "Bootstrap",
+      "amount": "85"
+    },
+    {
+      "id": 5,
+      "skillName": "Angular",
+      "amount": "65"
+    },
+    {
+      "id": 6,
+      "skillName": "VueJS",
+      "amount": "60"
+    },
+    {
+      "id": 7,
+      "skillName": "Redux",
+      "amount": "70"
+    },
+    {
+      "id": 8,
+      "skillName": "Python",
+      "amount": "60"
+    },
+    {
+      "id": 9,
+      "skillName": "Git",
+      "amount": "60"
+    },
+    {
+      "id": 8,
+      "skillName": "Unit Test",
+      "amount": "65"
+    },
+    {
+      "id": 8,
+      "skillName": "Docker",
+      "amount": "40"
+    }
+  ]
+}

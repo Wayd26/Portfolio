@@ -1,0 +1,58 @@
+{
+  "experience": [
+    {
+      "id": 0,
+      "link": "",
+      "company": "Helice",
+      "title": "Software Developer",
+      "dateFrom": "August 2018",
+      "dateTo": "February 2020",
+      "info": [
+        "Implemented an archive loan application at the Direction Générale des Affaires Intérieures et des Cultes, Benin(e-DAIC)",
+        "Implemented a project management and monitoring web application for the Ministry of Social Affairs and Microfinance, Benin",
+        "Analyzed and developed a desktop application for managing stock operations"
+      ],
+      "stack": ["Vue.js", "Angular.", "C++", "MySQL", "Git"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #39b175, #0be779)",
+      "colourSecondary": "linear-gradient(to bottom, #39b175, #0be779)"
+    },
+    {
+      "id": 1,
+      "link": "https://rightcom.com/",
+      "company": "RightCom",
+      "title": "Web Frontend Developer/Software Support Engineer",
+      "dateFrom": "August 2020",
+      "dateTo": "December 2021",
+      "info": [
+        "Implemented an appointment booking application",
+        "Developed some additional features on the customer complaint management application of the RightDesk Frontend project",
+        "Implemented a webform to create a new ticket",
+        "Developed  a PWA  to display statistical charts of RightCom applications (Project Status Page)",
+        "Developed a new version of the RightQ v2, queue management application (micro-Frontend architecture)",
+        "Identified  root causes and proposed solutions to applications bugs",
+        "Used JavaScript, HTML, CSS, SQL and Python to solve critical customer technical problems"
+      ],
+      "stack": ["HTML", "CSS", "Javascript", "React", "Angular", "Python", "PHP", "Docker", "Git", "SQL", "Mongo", "Node"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
+      "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)"
+    },
+    {
+      "id": 2,
+      "link": "https://www.dmdsatis.com/",
+      "company": "DMD - Satis",
+      "title": "Web Frontend Developer",
+      "dateFrom": "March 2022",
+      "dateTo": "Current",
+      "info": [
+        "Developing  a web portal accessible by the Congolese population for a better visibility of the Global Effective Rates applied by financial institutions",
+        "Implementing a web platform for the supervision of the application of the global effective rates of financial institutions subject to the Central Bank of Congo"
+      ],
+      "stack": ["HTML", "CSS", "Javascript", "PHP", "Laravel", "React"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)",
+      "colourSecondary": "linear-gradient(to bottom, #f4592b, #f28d25)"
+    }
+  ]
+}
