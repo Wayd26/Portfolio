@@ -21,7 +21,7 @@ const Home = () => {
           <Fade bottom distance="40px">
             <img
               className="profile"
-              alt="m.jigalin profile"
+              alt="wassiou ayedoun profile"
               src={profile}
               onLoad={() => setImageLoaded(true)}
             />
@@ -45,7 +45,7 @@ const Home = () => {
                   loop: true,
                   deleteSpeed: 10,
                   cursor: '<',
-                  delay: 100,
+                  delay: 200,
                 }}
               />
             </h1>

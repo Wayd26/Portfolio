@@ -45,3 +45,8 @@ button > span {
 section h1 {
   text-align: center;
 }
+
+
+.react-reveal {
+  opacity: 1 !important;
+}
