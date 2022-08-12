@@ -33,7 +33,7 @@
     {
       "id": 2,
       "name": "ToDo App",
-      "link": "https://fit-web-app.netlify.app/",
+      "link": "https://todo-app-wayd.netlify.app/",
       "description": "📝 Todo app made with VueJS and using localStorage to store an array of tasks categorized.",
       "colour": "linear-gradient(to bottom right, rgb(13, 46, 145),rgb(20, 12, 53))",
       "logo": "todo_list",
