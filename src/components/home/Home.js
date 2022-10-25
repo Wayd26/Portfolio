@@ -1,22 +1,58 @@
-import React, { useState } from 'react'
+import React, { useState, useCallback } from 'react'
 import './Home.css'
 import Fade from 'react-reveal/Fade'
 import { Bounce } from 'react-reveal'
 import { Link } from 'react-scroll'
-import Particles from 'react-particles-js'
+import Particles from 'react-tsparticles'
+// import Particles from 'react-particles-js'
 import Typewriter from 'typewriter-effect'
 import ArrowDropDownCircleIcon from '@material-ui/icons/ArrowDropDownCircle'
 import Navbar from '../navbar/Navbar'
 import config from '../../config'
 import profile from '../../images/wayd.jpeg'
 import linkedin from '../../images/social/linkedin.png'
+import { loadFull } from "tsparticles";
 
 const Home = () => {
   const [imageLoaded, setImageLoaded] = useState(false)
+  const particlesInit = (main) => {
+    console.log(main);
+
+    // you can initialize the tsParticles instance (main) here, adding custom shapes or presets
+  };
+
+  const particlesLoaded = (container) => {
+    console.log(container);
+  };
   return (
     <div className="home-wrapper">
       <div className="home">
-        <Particles className="particles" params={config.particles} />
+        {/* <Particles className="particles" params={config.particles} /> */}
+        {/* <Particles id="tsparticles" url={config.particles} init={config.particles} loaded={config.particles} /> */}
+
+
+      
+
+<Particles
+    params={{
+	    "particles": {
+	        "number": {
+	            "value": 50
+	        },
+	        "size": {
+	            "value": 3
+	        }
+	    },
+	    "interactivity": {
+	        "events": {
+	            "onhover": {
+	                "enable": true,
+	                "mode": "repulse"
+	            }
+	        }
+	    }
+	}} />
+
         <div className={`greeting${!imageLoaded ? ' hide' : ''}`}>
           <Fade bottom distance="40px">
             <img

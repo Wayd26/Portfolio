@@ -27,7 +27,7 @@
         { "name": "CSS", "color": "rgb(86, 61, 124)" },
         { "name": "API", "color": "white" },
         { "name": "Material-UI", "color": "cyan" },
-        { "name": "React", "color": "blue" }
+        { "name": "React Hooks", "color": "blue" }
       ]
     },
     {
@@ -41,6 +41,33 @@
         { "name": "JavaScript", "color": "rgb(111, 224, 23)" },
         { "name": "CSS", "color": "rgb(86, 61, 124)" },
         { "name": "VueJS", "color": "rgb(1, 24, 223)" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "React Appointments",
+      "link": "https://react-interface-appointments.netlify.app/",
+      "description": "📆 Small project implemented while learning on LinkedIn Learning to build interfaces using React",
+      "colour": "linear-gradient(to bottom right, rgb(113, 16, 105),rgb(18, 12, 53))",
+      "logo": "react_appointments",
+      "languages": [
+        { "name": "JavaScript", "color": "rgb(111, 224, 23)" },
+        { "name": "CSS", "color": "rgb(86, 61, 124)" },
+        { "name": "React", "color": "blue" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "La Maison Jungle",
+      "link": "https://la-maison-jungle-wayd.netlify.app/",
+      "description": "🪴 This project comes from the OpenClassrooms training 'Getting started with React'. It is an application presenting the plants of an imaginary company selling plants.",
+      "colour": "linear-gradient(to bottom right, rgb(13, 16, 10),rgb(18, 12, 53))",
+      "logo": "la_maison_jungle",
+      "languages": [
+        { "name": "JavaScript", "color": "rgb(111, 224, 23)" },
+        { "name": "CSS", "color": "rgb(86, 61, 124)" },
+        { "name": "React", "color": "blue" },
+        { "name": "React", "color": "red" }
       ]
     }
   ]
