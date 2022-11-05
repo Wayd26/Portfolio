@@ -4,8 +4,8 @@
       "id": 0,
       "link": "",
       "company": "Helice",
-      "title": "Software Developer",
-      "dateFrom": "August 2018",
+      "title": "Software Developer/Frontend Developer",
+      "dateFrom": "March 2018",
       "dateTo": "February 2020",
       "info": [
         "Implemented an archive loan application at the Direction Générale des Affaires Intérieures et des Cultes, Benin(e-DAIC)",
@@ -20,8 +20,8 @@
     {
       "id": 1,
       "link": "https://rightcom.com/",
-      "company": "RightCom",
-      "title": "Web Frontend Developer/Software Support Engineer",
+      "company": "RightCom Technologies",
+      "title": "Frontend Developer/Software Support Engineer",
       "dateFrom": "August 2020",
       "dateTo": "December 2021",
       "info": [
@@ -41,13 +41,14 @@
     {
       "id": 2,
       "link": "https://www.dmdsatis.com/",
-      "company": "DMD - Satis",
-      "title": "Web Frontend Developer",
+      "company": "Djondo Management & Development",
+      "title": "Frontend Developer",
       "dateFrom": "March 2022",
       "dateTo": "Current",
       "info": [
         "Developing  a web portal accessible by the Congolese population for a better visibility of the Global Effective Rates applied by financial institutions",
-        "Implementing a web platform for the supervision of the application of the global effective rates of financial institutions subject to the Central Bank of Congo"
+        "Implementing a web platform for the supervision of the application of the global effective rates of financial institutions subject to the Central Bank of Congo",
+        "Implementation of a web platform presenting DMD's solutions."
       ],
       "stack": ["HTML", "CSS", "Javascript", "PHP", "Laravel", "React"],
       "logowidth": 80,
