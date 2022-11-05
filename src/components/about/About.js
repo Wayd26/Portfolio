@@ -24,13 +24,13 @@ const About = () => {
                 ⚡
               </span>{' '}
               I'm an experienced software developer focusing on Web Front-End and emerging
-              tech such as DS, and Blockchain.
+              tech such as Web3.
             </p>
             <p>
               <span role="img" aria-label="lightning">
                 ⚡
               </span>{' '}
-              You can find me working with HTML, CSS, JavaScript, Python, Solidity, React and Vue, etc.
+              You can find me working with HTML, CSS, JavaScript, Python, Solidity, React and Angular, etc.
             </p>
             <div className="typewriter">
               <p className="typewriter-start">
