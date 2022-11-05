@@ -33,7 +33,7 @@
         "Identified  root causes and proposed solutions to applications bugs",
         "Used JavaScript, HTML, CSS, SQL and Python to solve critical customer technical problems"
       ],
-      "stack": ["HTML", "CSS", "Javascript", "React", "Angular", "Python", "PHP", "Docker", "Git", "SQL", "Mongo", "Node"],
+      "stack": ["HTML", "CSS", "Javascript", "React", "Redux", "Angular", "Python", "Laravel", "Docker", "Git", "SQL", "C++", "PHP"],
       "logowidth": 80,
       "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
       "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)"
@@ -50,7 +50,7 @@
         "Implementing a web platform for the supervision of the application of the global effective rates of financial institutions subject to the Central Bank of Congo",
         "Implementation of a web platform presenting DMD's solutions."
       ],
-      "stack": ["HTML", "CSS", "Javascript", "PHP", "Laravel", "React"],
+      "stack": ["HTML", "CSS", "Javascript", "Redux", "React"],
       "logowidth": 80,
       "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)",
       "colourSecondary": "linear-gradient(to bottom, #f4592b, #f28d25)"
