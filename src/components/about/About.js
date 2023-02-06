@@ -23,14 +23,14 @@ const About = () => {
               <span role="img" aria-label="lightning">
                 ⚡
               </span>{' '}
-              I'm an experienced software developer focusing on Web Front-End and emerging
-              tech such as Web3.
+              I'm an experienced software developer focusing on Web and emerging
+              tech such as AI & Web3.
             </p>
             <p>
               <span role="img" aria-label="lightning">
                 ⚡
               </span>{' '}
-              You can find me working with HTML, CSS, JavaScript, Python, Solidity, React and Angular, etc.
+              You can find me working with HTML, CSS, JavaScript, Python, React Angular, VueJS, ExpressJs, Node and Angular, etc.
             </p>
             <div className="typewriter">
               <p className="typewriter-start">

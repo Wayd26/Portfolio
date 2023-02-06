@@ -69,6 +69,22 @@
         { "name": "React", "color": "blue" },
         { "name": "React Hooks", "color": "red" }
       ]
+    },
+    {
+      "id": 3,
+      "name": "Open Shop",
+      "link": "https://open-shop.vercel.app/",
+      "description": "🪴 This is an MERN E-Commerce app...",
+      "colour": "linear-gradient(to bottom right, rgb(15, 26, 110),rgb(18, 52, 33))",
+      "logo": "open_shop",
+      "languages": [
+        { "name": "JavaScript", "color": "rgb(111, 224, 23)" },
+        { "name": "CSS", "color": "rgb(86, 61, 124)" },
+        { "name": "React", "color": "blue" },
+        { "name": "TailwindCSS Hooks", "color": "gray" },
+        { "name": "ExpressJS/NodeJs", "color": "lightgray" },
+        { "name": "MongoDB", "color": "pink" }
+      ]
     }
   ]
 }
