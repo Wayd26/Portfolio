@@ -81,7 +81,7 @@
         { "name": "JavaScript", "color": "rgb(111, 224, 23)" },
         { "name": "CSS", "color": "rgb(86, 61, 124)" },
         { "name": "React", "color": "blue" },
-        { "name": "TailwindCSS Hooks", "color": "gray" },
+        { "name": "TailwindCSS", "color": "gray" },
         { "name": "ExpressJS/NodeJs", "color": "lightgray" },
         { "name": "MongoDB", "color": "pink" }
       ]
