@@ -12,7 +12,7 @@
         "Implemented a project management and monitoring web application for the Ministry of Social Affairs and Microfinance, Benin",
         "Analyzed and developed a desktop application for managing stock operations"
       ],
-      "stack": ["Vue.js", "Angular.", "C++", "MySQL", "Git"],
+      "stack": ["ReactJS", "Angular", "Javascript", "Java", "Vue.js", "C++", "MySQL", "Git"],
       "logoheight": 80,
       "colourPrimary": "linear-gradient(to bottom, #39b175, #78B4FB)",
       "colourSecondary": "linear-gradient(to bottom, #39b175, #78B4FB)"
@@ -44,9 +44,9 @@
       "company": "Djondo Management & Development",
       "title": "Frontend Developer",
       "dateFrom": "March 2022",
-      "dateTo": "Current",
+      "dateTo": "August 2023",
       "info": [
-        "Developing  a web portal accessible by the Congolese population for a better visibility of the Global Effective Rates applied by financial institutions",
+        "Developed  a web portal accessible by the Congolese population for a better visibility of the Global Effective Rates applied by financial institutions",
         "Implementing a web platform for the supervision of the application of the global effective rates of financial institutions subject to the Central Bank of Congo",
         "Implementation of a web platform presenting DMD's solutions."
       ],
@@ -54,6 +54,21 @@
       "logowidth": 80,
       "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)",
       "colourSecondary": "linear-gradient(to bottom, #f4592b, #f28d25)"
+    },
+    {
+      "id": 3,
+      "link": "https://www.open.global/",
+      "company": "OPEN Group",
+      "title": "Software Engineer/Frontend Developer",
+      "dateFrom": "January 2024",
+      "dateTo": "Current",
+      "info": [
+        "Developing  an intuitive web platform enabling agents at the Centre National de la Propriété Forestière to efficiently manage forest property information, including details of owners, parcels, files, authorizations and associated activities.", "Developing a local data-sharing platform that aims to enable local players to easily share their data while retaining control of it, to access a wide range of data at a single point, and to create digital services based on responsible and ethical data management."
+      ],
+      "stack": ["Angular", "Java/SpringBoot", "Typescript", "Redux", "React"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #0100A3, #0150A3)",
+      "colourSecondary": "linear-gradient(to bottom, #0100A3, #0150A3)"
     }
   ]
 }

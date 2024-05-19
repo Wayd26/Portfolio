@@ -13,7 +13,12 @@
     {
       "id": 2,
       "skillName": "ReactJS",
-      "amount": "95"
+      "amount": "90"
+    },
+    {
+      "id": 5,
+      "skillName": "Angular",
+      "amount": "90"
     },
     {
       "id": 3,
@@ -22,13 +27,8 @@
     },
     {
       "id": 4,
-      "skillName": "Bootstrap",
-      "amount": "85"
-    },
-    {
-      "id": 5,
-      "skillName": "Angular",
-      "amount": "65"
+      "skillName": "Java",
+      "amount": "60"
     },
     {
       "id": 6,
@@ -37,8 +37,8 @@
     },
     {
       "id": 7,
-      "skillName": "Redux",
-      "amount": "70"
+      "skillName": "SpringBoot",
+      "amount": "60"
     },
     {
       "id": 8,

@@ -16,7 +16,7 @@ const About = () => {
             <p>
               I'm Wassiou Ayedoun{' '}
               <span role="img" aria-label="lightning">
-                😄
+                😌
               </span>{' '}
             </p>
             <p>
@@ -30,7 +30,7 @@ const About = () => {
               <span role="img" aria-label="lightning">
                 ⚡
               </span>{' '}
-              You can find me working with HTML, CSS, JavaScript, Python, React Angular, VueJS, ExpressJs, Node and Angular, etc.
+              You can find me working with HTML, CSS, JavaScript, React Angular, VueJS, NodeJS, Java and Python, etc.
             </p>
             <div className="typewriter">
               <p className="typewriter-start">
@@ -96,7 +96,7 @@ const About = () => {
                   d="M11.536 3.464a5 5 0 010 7.072L8 14.07l-3.536-3.535a5 5 0 117.072-7.072v.001zm1.06 8.132a6.5 6.5 0 10-9.192 0l3.535 3.536a1.5 1.5 0 002.122 0l3.535-3.536zM8 9a2 2 0 100-4 2 2 0 000 4z"
                 ></path>
               </svg>
-              <p>Cotonou, Benin Republic</p>
+              <p>Rennes, Brittany, France</p>
             </div>
           </div>
         </Fade>

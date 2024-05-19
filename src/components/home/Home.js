@@ -15,20 +15,11 @@ import linkedin from '../../images/social/linkedin.png'
 
 const Home = () => {
   const [imageLoaded, setImageLoaded] = useState(false)
-  // const particlesInit = (main) => {
-  //   console.log(main);
 
-  //   // you can initialize the tsParticles instance (main) here, adding custom shapes or presets
-  // };
-
-  // const particlesLoaded = (container) => {
-  //   console.log(container);
-  // };
   return (
     <div className="home-wrapper">
       <div className="home">
         <Particles className="particles" params={config.particles} />
-        {/* <Particles id="tsparticles" url={config.particles} init={config.particles} loaded={config.particles} /> */}
 
 
       
@@ -71,8 +62,8 @@ const Home = () => {
               <Typewriter
                 options={{
                   strings: [
-                    'I like to implement awesome user interfaces.',
-                    'I love learning new tech.',
+                    'I like to implement awesome web applications.',
+                    'I love learning new techs.',
                     'I love meeting new people.',
                     'I like solving complex problems using techs.',
                     'I create unique digital experiences.',
@@ -88,7 +79,7 @@ const Home = () => {
             <Bounce cascade>
               <div className="links">
                 <a
-                  href="https://www.linkedin.com/in/Wayd26/"
+                  href="https://www.linkedin.com/in/wayedoun26/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
